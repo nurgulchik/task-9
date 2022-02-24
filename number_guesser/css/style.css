@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    background-color: rgb(184, 229, 240);
+}
+
+.container {
+    margin-top: 50px;
+   
+}
+
+h1 {
+    font-weight: 700;
+    color: rgb(44, 85, 85);
+}
+
+.guess-num {
+    font-weight: bold;
+    font-size: 20px;
+    /* margin-bottom: 60px; */
+}
+
+#guess-input {
+    margin-top: 20px;
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid rgb(38, 38, 136);
+}
+
+#guess-btn {
+    width: 250px;
+    height: 50px;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: normal;
+    background-color: rgb(57, 36, 134);
+    border-radius: 10px;
+
+}
+
+#guess-btn:hover{
+    background-color: rgb(70, 90, 180);
+}
+
+.message {
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(172, 18, 18);
+}
+
